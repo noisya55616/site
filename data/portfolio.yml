@@ -1,0 +1,86 @@
+portfolioitems:
+  # portfolio category
+  - title: Technical Projects
+    portfolioitem:
+      - name: PuMP Site
+        image: '/images/portfolio/pump.png'
+        link: https://www.pumprofessionals.org/
+        linktext: 'Visit Site'
+        description: 'As a web developer for Prospective Medical Professionals, I developed responsive webpages and React components using Typescript for a Next.js site with 10000+ interactions in its first year.
+        I maintained an opportunities database and search using React and PostgreSQL to serve volunteer and internship opportunities.
+        Development work was done in collaboration with a design team to make changes and improvements to the site, from wireframes to final product.'
+        tags:
+          - HTML
+          - CSS
+          - React
+          - TypeScript
+          - Next.js
+          - PostgreSQL
+        status: 'Ongoing'
+        start: 'June 2021'
+        #end: 'Present'
+        #authors:
+        #  - lxndrblz
+        #  - alexanderdavide
+      - name: Self-Hosted Services
+        image: '/images/portfolio/blog.png'
+        link: https://blog.simonwu.tech
+        linktext: 'See Example'
+        description: 'I have self-hosted a variety of services and utilities for myself and others using hosting services and on bare-metal equipment.
+        This has included private cloud storage, static sites for various purposes and personal libraries.
+        My experiences have included administrating Windows and Linux systems, as well as Docker containers.'
+        status: 'Ongoing'
+        start: 'November 2019'
+        tags:
+          - HTML
+          - CSS
+          - Shell
+          - Python
+          - Docker
+      - name: Highmark
+        image: '/images/portfolio/HIGHMARK-PREVIEW.png'
+        link: https://highmark.simonwu.tech
+        status: 'Finished'
+        start: 'October 2020'
+        end: 'November 2020'
+        description: 'I developed a Markdown-based text editor as a static web application, using pure JavaScript and HTML/CSS, self-hosted online.
+        I used Showdown for automatic Markdown preview rendering and exports, and implemented saving files to and loading from disk.'
+        tags:
+          - JavaScript
+          - HTML
+          - CSS
+  # portfolio category
+  - title: Positions
+    portfolioitem:
+      - name: Web Developer - Prospective Medical Professionals
+        #image: '/images/portfolio/code.jpg'
+        link: https://www.pumprofessionals.org
+        description: 'I build responsive web pages and React components in TypeScript to specifications in collaboration with a design team.
+        Additionally, I have populated and maintained a PostgreSQL database with Prisma ORM, and led developer team meetings and mentored and onboarded newer members.'
+        status: 'Ongoing'
+        start: 'June 2021'
+        #tags:
+        #  - Tag 1
+        #  - Tag 2
+      - name: Cancer Biology Research Assistant - STEM&Leaf Corps (Texas Tech University)
+        #image: '/images/portfolio/code.jpg'
+        start: 'September 2021'
+        end: 'August 2022'
+        link: https://www.stemleafcorps.com/special-topics-program
+        description: 'As part of the Introduction to Cancer Biology group in the Special Topics Program, I explored the effects of amino acids on cancer treatment.
+        I performed a programmatic literature using `nltk` and `pandas`, and contributed significantly to a 34-page literature review on interactions between amino acids and cancer immunotherapy treatments.
+        I also presented on a variety of cancer biology topics to new group members during the term transition.'
+        #tags:
+        #  - Tag 1
+        #  - Tag 2
+      - name: Data Analyst - Community Advocates for Just and Moral Governance
+        #image: '/images/portfolio/mogo.png'
+        start: 'June 2020'
+        end: 'January 2021'
+        link: https://moralgovernance.org
+        description: 'I used Tesseract OCR and Tabula to enhance the processing of San Diego Police Department racial arrest data.
+        My efforts contributed to a [successful lawsuit](https://www.aclu-sdic.org/en/press-releases/new-settlement-will-protect-people-sdpds-unreasonable-prolonged-cell-phone-seizures) against the SDPD for unreasonable cellphone seizures.
+        I also scraped online video and other content for record-keeping, and consulted on web design and outreach tactics for an online charity campaign.'
+        #tags:
+        #  - Tag 1
+        #  - Tag 2

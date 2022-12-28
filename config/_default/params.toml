@@ -1,0 +1,31 @@
+title = "I'm Simon Wu"
+author = "Simon Wu"
+#description = """
+#CS @ UWaterloo
+#Seeking opportunities for Summer 2023
+#"""
+profilePicture = "images/headshot.jpg"
+
+displayMode = "light"
+disableThemeSwitcher = true # Theme switcher is enabled by default
+doNotLoadAnimations = true # Animations are loaded by default
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "www.linkedin.com/in/simon-wu-53636a243"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/noisya55616"
+
+[[socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/concertbass"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:simon.wu1@uwaterloo.ca"
