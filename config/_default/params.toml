@@ -6,6 +6,8 @@ author = "Simon Wu"
 #"""
 profilePicture = "images/headshot.jpg"
 
+gTagId = "G-418B91005C"
+
 displayMode = "light"
 disableThemeSwitcher = true # Theme switcher is enabled by default
 doNotLoadAnimations = true # Animations are loaded by default
