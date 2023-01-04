@@ -15,12 +15,12 @@ doNotLoadAnimations = true # Animations are loaded by default
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "www.linkedin.com/in/simon-wu-53636a243"
+url = "https://www.linkedin.com/in/simon-wu-53636a243"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/noisya55616"
+url = "https://github.com/shangmingwu"
 
 [[socialIcons]]
 icon = "fab fa-instagram"

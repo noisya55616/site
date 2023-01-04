@@ -24,7 +24,7 @@ portfolioitems:
         #  - alexanderdavide
       - name: Self-Hosted Services
         image: '/images/portfolio/blog.png'
-        link: https://blog.simonwu.tech
+        link: https://blog.simonwu.dev
         linktext: 'See Example'
         description: 'I have self-hosted a variety of services and utilities for myself and others using hosting services and on bare-metal equipment.
         This has included private cloud storage, static sites for various purposes and personal libraries.
@@ -39,7 +39,7 @@ portfolioitems:
           - Docker
       - name: Highmark
         image: '/images/portfolio/HIGHMARK-PREVIEW.png'
-        link: https://highmark.simonwu.tech
+        link: https://hm.simonwu.dev
         status: 'Finished'
         start: 'October 2020'
         end: 'November 2020'

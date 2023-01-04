@@ -20,7 +20,7 @@
   name = "Blog"
   weight = 400
   identifier = "blog"
-  url = "https://blog.simonwu.tech"
+  url = "https://blog.simonwu.dev"
 
 #  [[main]]
 #  name = "About"
