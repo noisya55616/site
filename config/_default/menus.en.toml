@@ -14,7 +14,7 @@
   name = "Resume"
   identifier = "resume"
   weight = 300
-  url = "/docs/resume.pdf"
+  url = "https://simonwu.dev/docs/resume.pdf"
 
   [[main]]
   name = "Blog"
