@@ -3,9 +3,6 @@ languageCode = "en-ca"
 DefaultContentLanguage = "en"
 title = "Who I Am"
 
-# theme as hugo module
-#theme = "github.com/lxndrblz/anatole"
-# theme as git submodule
 theme = "anatole"
 
 summarylength = 10
@@ -16,7 +13,7 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 # Google Analytics
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "G-418B91005C"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
