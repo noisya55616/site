@@ -1,6 +1,18 @@
 portfolioitems:
   - title: Technical Projects
     portfolioitem:
+      - name: Machine Learning Text Generation
+        link: https://github.com/shangmingwu/rnn-text-generator
+        linktext: 'See Repository'
+        description: 'I experimented with various methods of machine learning text generation, building a recurrent neural network trained to generate William Shakespeare prose.
+        I investigated training methods and tokenization, and researched other methods of text generation.
+        I am currently building a transformer-based system to improve comprehensibility.'
+        status: 'Ongoing'
+        start: 'November 2022'
+        tags:
+          - Python
+          - TensorFlow
+          - Jupyter
       - name: PuMP Site
         image: '/images/portfolio/pump.png'
         link: https://www.pumprofessionals.org/
