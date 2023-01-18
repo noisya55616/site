@@ -1,4 +1,14 @@
 portfolioitems:
+  - title: Research
+    portfolioitem:
+      - name: 'Modulating amino acid levels to enhance cancer immunotherapy: review of potential synergies and antagonisms'
+        description: 'I researched and wrote the tryptophan section of a meta-analysis literature review on links between amino acids and cancer immunotherapy treatments.
+        I used Python with `pandas` and `nltk` to perform a programmatic literature search, and worked alongside graduate and medical students at Texas Tech University Health Sciences Center, the University of Texas at Austin College of Pharmacy and the University of Texas Southwestern Medical Center.'
+        status: 'Pending Review'
+        start: 'September 2021'
+        end: 'September 2022'
+        tags:
+          - Python
   - title: Technical Projects
     portfolioitem:
       - name: Machine Learning Text Generation
